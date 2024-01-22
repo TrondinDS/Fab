@@ -1,0 +1,14 @@
+C:\Pet\Fab\Fab\bin\Debug\net8.0\Fab.exe
+C:\Pet\Fab\Fab\bin\Debug\net8.0\Fab.deps.json
+C:\Pet\Fab\Fab\bin\Debug\net8.0\Fab.runtimeconfig.json
+C:\Pet\Fab\Fab\bin\Debug\net8.0\Fab.dll
+C:\Pet\Fab\Fab\bin\Debug\net8.0\Fab.pdb
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.AssemblyInfoInputs.cache
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.AssemblyInfo.cs
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.csproj.CoreCompileInputs.cache
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.dll
+C:\Pet\Fab\Fab\obj\Debug\net8.0\refint\Fab.dll
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.pdb
+C:\Pet\Fab\Fab\obj\Debug\net8.0\Fab.genruntimeconfig.cache
+C:\Pet\Fab\Fab\obj\Debug\net8.0\ref\Fab.dll

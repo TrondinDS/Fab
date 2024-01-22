@@ -1,0 +1,61 @@
+﻿
+<blocks>
+
+    <block  guid="ea03ec8d-4c94-43b3-1943-41d6b041d758"  block_status="" block_type="Input" >
+		<chat_name>GPT</chat_name>
+		<tecnical_promt>Промт условия чата</tecnical_promt>
+		<title>Вопрос</title>
+		<inputs>
+			<input type="string" name="Name" defaultValue="">
+				<outputs_GUI>
+					<output_GUI>ea03ec8d-4c94-43b3-1943-41d6b041d758</output_GUI>
+				</outputs_GUI>
+			</input>
+		</inputs>
+		<outputs>
+			<output type="string" name="Name" defaultValue=""/>
+				<inputs_GUI>
+					<input_GUI>ea03ec8d-4c94-43b3-1943-41d6b041d758</input_GUI>
+				</inputs_GUI>
+		</outputs>
+    </block >
+	
+    <block  guid="ea03ec8d-4c94-43b3-1943-41d6b041d758"  block_status="" block_type="Tecnical" >
+		<chat_name>GPT-4.5</chat_name>
+		<tecnical_promt>Промт условия чата</tecnical_promt>
+		<correction_promt>Уточняющий промт</correction_promt>
+		<inputs>
+			<input type="string" name="Name" defaultValue="">
+				<outputs_GUI>
+					<output_GUI>ea03ec8d-4c94-43b3-1943-41d6b041d758</output_GUI>
+				</outputs_GUI>
+			</input>
+		</inputs>
+		<outputs>
+			<output type="string" name="Name" defaultValue=""/>
+				<inputs_GUI>
+					<input_GUI>ea03ec8d-4c94-43b3-1943-41d6b041d758</input_GUI>
+				</inputs_GUI>
+		</outputs>
+    </block >
+	
+	<block   guid="ea03ec8d-4c94-43b3-1943-41d6b041d758" block_status="" block_type="Output" >
+		<chat_name>Алиса</chat_name>
+		<tecnical_promt>Промт условия чата</tecnical_promt>
+		<title>Ответ</title>
+		<inputs>
+			<input type="string" name="Name" defaultValue="">
+				<outputs_GUI>
+					<output_GUI>ea03ec8d-4c94-43b3-1943-41d6b041d758</output_GUI>
+				</outputs_GUI>
+			</input>
+		</inputs>
+		<outputs>
+			<output type="string" name="Name" defaultValue=""/>
+				<inputs_GUI>
+					<input_GUI>ea03ec8d-4c94-43b3-1943-41d6b041d758</input_GUI>
+				</inputs_GUI>
+		</outputs>
+    </block >
+
+</blocks>
